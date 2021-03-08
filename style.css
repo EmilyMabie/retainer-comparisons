@@ -1,0 +1,113 @@
+#wrapper{
+    background-color: rgb(250,116,125);
+    width: 1200px;
+    height: 800px;
+    padding-top: 5px;
+}
+
+#sidebar{
+    width:250px;
+    height: auto;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#header{
+    color: rgb(10, 165, 165);
+    background-color: rgb(255, 187, 98);
+    margin: 10px;
+    margin-top: 10px;
+    height: 120px;
+}
+
+#header h1{
+    display: inline-block;
+    color: rgb(22,122,122);
+    margin-left: 295px;
+    margin-bottom: 0px;
+}
+
+#header h3{
+    margin-top: 8px;
+    margin-left: 255px;
+    font-weight: 100;
+    width: 700px;
+    text-align: center;
+}
+
+#main_content{
+    background-color: white;
+    width: 911px;
+    height: 573.8px;
+    margin-left: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.offerings{
+    background-color: rgb(255,193,206);
+    width: 206px;
+    height: 268px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: rgb(22,122,122);
+    vertical-align: top;
+    /*text-align: center;*/
+}
+
+.offerings a, .offerings img{
+    max-height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    background-color: rgb(255,193,206);
+    display: block;
+}
+
+.offerings h2{
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    text-align: center;
+    vertical-align: top;
+    color: rgb(192, 76, 84);
+}
+
+.bold{
+    font-weight: bold;
+}
+
+
+p{
+    font-size: small;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.note{
+    color: rgb(192, 76, 84);
+    width: 190px;
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+#footer{
+    background-color: rgb(254,166,54);
+    height: 50px;
+    width: 1170px;
+    margin-left: 15px;
+}
+
+#footer ul{
+    margin-left: 298px;
+}
+
+#footer li, #footer a{
+    color: rgb(95,143,179);
+    display: inline-block;
+    text-decoration: none;
+    padding: 9px;
+}
