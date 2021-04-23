@@ -1,6 +1,6 @@
-#Retainer Comparisons
+# Retainer Comparisons
 
-##A website designed to compare the prices of clear orthodontic retainers from popular manufacturers, in order to save the consumer money.
+## A website designed to compare the prices of clear orthodontic retainers from popular manufacturers, in order to save the consumer money.
 
 This website was designed and executed using HTML and CSS.
 
