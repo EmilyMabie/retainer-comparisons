@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+#Retainer Comparisons
 
-You can use the [editor on GitHub](https://github.com/EmilyMabie/retainer-comparisons/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##A website designed to compare the prices of clear orthodontic retainers from popular manufacturers, in order to save the consumer money.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website was designed and executed using HTML and CSS.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+When I was first in the market for a new retainer, I had just finished spending thousands of dollars to straighten my teeth. I wanted to find the best deal I could to keep them in tip-top shape: that was the impetus for this project.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmilyMabie/retainer-comparisons/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+At the time of publication, Remi's subscription model was the most economical for repeat customers. This website will be updated with JavaScript and more in the days to come.
